@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://umbral-austral.goldreygunit.chatgpt.site/sitemap.xml
